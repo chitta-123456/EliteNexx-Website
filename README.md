@@ -1,2 +1,2 @@
 # EliteNexx-Website
-This is a portfoli website of elitenexx 
+This is a portfolio website of elitenexx 
